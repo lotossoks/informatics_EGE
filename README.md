@@ -14,6 +14,6 @@
 - **Кошелек**: [T-bank](https://www.tinkoff.ru/rm/r_ifAYlZnkjX.Kzuskbozbv/Te1Hd26098)
 
 ## Контакты  
-- **Автор**: [@lotossoks](https://t.me/lotossoks)
+- **Telegram**: [@lotossoks](https://t.me/lotossoks)
 - **GitHub**: [@lotossoks](https://github.com/lotossoks)  
 - **Почта**: [arseny.chugunov@gmail.com](arseny.chugunov@gmail.com)
